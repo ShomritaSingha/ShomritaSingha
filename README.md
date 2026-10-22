@@ -12,13 +12,22 @@
   <a href="https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects"><img src="https://img.shields.io/badge/Analytics_portfolio-dcccf3?style=flat-square&amp;logo=github&amp;logoColor=643b63" alt="Analytics portfolio" /></a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/shomritasingha/"><img src="https://img.shields.io/badge/LinkedIn-dcccf3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=794b78" alt="Connect with Sammy on LinkedIn" /></a>
+  <a href="mailto:shomritasingha1@gmail.com"><img src="https://img.shields.io/badge/Email_me-f0c6df?style=for-the-badge&amp;logo=gmail&amp;logoColor=794b78" alt="Email Sammy" /></a>
+</p>
+
 ---
 
 ### 🌸 Meet the main character
 
+<img align="right" src="assets/sammy-hi.gif" width="230" alt="Sammy’s anime character pops up, blinks, and says Hi!" />
+
 I'm a **data engineer** studying **Information Systems at UMD 🐢 (University of Maryland, Robert H. Smith School of Business)**, with a focus on AI and data analytics. My experience spans **insurance, telecom, and retail**, building pipelines, improving data quality, and making daily operations easier through automation.
 
 I enjoy connecting the technical work to the people who use it: turning messy data into clear insights, repetitive tasks into workflows, and ideas into useful products.
+
+<br clear="right" />
 
 ### 🪄 My current arc
 

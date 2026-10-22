@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shomritasingha/"><img src="https://img.shields.io/badge/LinkedIn-dcccf3?style=for-the-badge&amp;logo=linkedin&amp;logoColor=794b78" alt="Connect with Sammy on LinkedIn" /></a>
+  <a href="https://www.instagram.com/shomritasingha/"><img src="https://img.shields.io/badge/Instagram-f4c6da?style=for-the-badge&amp;logo=instagram&amp;logoColor=794b78" alt="Follow Sammy on Instagram" /></a>
   <a href="mailto:shomritasingha1@gmail.com"><img src="https://img.shields.io/badge/Email_me-f0c6df?style=for-the-badge&amp;logo=gmail&amp;logoColor=794b78" alt="Email Sammy" /></a>
 </p>
 

@@ -1,5 +1,6 @@
 <h1 align="center">Shomrita Singha 🎀</h1>
 <p align="center"><b>Call me Sammy · building useful things with data and a little sparkle</b></p>
+<p align="center">🎓 MSIS @ <b>UMD</b> 🐢 &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg" width="24" alt="Maryland flag" /></p>
 <p align="center"><img src="assets/typing.gif" width="700" alt="Data Engineer. MSIS at the University of Maryland. Exploring AI agents and data products." /></p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 
 ### 🌸 Meet the main character
 
-I'm a **data engineer** studying **Information Systems at the University of Maryland's Robert H. Smith School of Business**, with a focus on AI and data analytics. My experience spans **insurance, telecom, and retail**, building pipelines, improving data quality, and making daily operations easier through automation.
+I'm a **data engineer** studying **Information Systems at UMD 🐢 (University of Maryland, Robert H. Smith School of Business)**, with a focus on AI and data analytics. My experience spans **insurance, telecom, and retail**, building pipelines, improving data quality, and making daily operations easier through automation.
 
 I enjoy connecting the technical work to the people who use it: turning messy data into clear insights, repetitive tasks into workflows, and ideas into useful products.
 
@@ -49,7 +50,7 @@ I enjoy connecting the technical work to the people who use it: turning messy da
 
 ### 🎀 Skill inventory
 
-<p align="center"><img src="assets/my-toolkit.svg" width="900" alt="Python, SQL, GCP, BigQuery, Airflow, dbt, Tableau, and Looker Studio" /></p>
+<p align="center"><img src="assets/my-toolkit.svg" width="900" alt="Python, SQL, GCP, BigQuery, Airflow, dbt, Tableau, Looker Studio, RAG, AI Agents, Codex, and Databricks" /></p>
 
 <details>
 <summary><b>☁️ Cloud &amp; data engineering</b> · open inventory</summary>

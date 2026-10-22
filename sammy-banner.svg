@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Sammy. Welcome to my little corner of GitHub.</title><desc id="desc">A blush pink stationery banner with a ribbon, hearts, stars, and a tiny laptop. Data engineering, analytics, and AI.</desc>
+<defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="1.2" fill="#ebbbc9" opacity=".45"/></pattern><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fff7f6"/><stop offset="1" stop-color="#fce1ed"/></linearGradient></defs>
+<rect width="960" height="340" rx="24" fill="url(#paper)"/><rect width="960" height="340" rx="24" fill="url(#dots)"/>
+<rect x="20" y="20" width="920" height="300" rx="17" fill="none" stroke="#d995af" stroke-dasharray="4 7"/>
+<g transform="translate(480 66)" fill="#e89bb7" stroke="#b85983" stroke-width="2"><path d="M-7 0C-62-47-76-13-62 8C-49 24-22 12-7 2Z"/><path d="M7 0C62-47 76-13 62 8C49 24 22 12 7 2Z"/><path d="M-7 3L-29 47-13 42-5 53 4 7M7 3L29 47 13 42 5 53-4 7"/><ellipse rx="10" ry="12"/></g>
+<text x="480" y="166" text-anchor="middle" font-family="Georgia,serif" font-size="49" fill="#71324e">hi, i'm Sammy</text>
+<text x="480" y="203" text-anchor="middle" font-family="Verdana,sans-serif" font-size="14" letter-spacing="3" fill="#8c4967">DATA ENGINEERING · ANALYTICS · AI</text>
+<text x="480" y="244" text-anchor="middle" font-family="Georgia,serif" font-size="19" font-style="italic" fill="#935572">a little curiosity. a lot of possibilities.</text>
+<g fill="#ce7b9b"><path d="M118 84l4 11 12 4-12 4-4 11-4-11-12-4 12-4z"/><path d="M823 75l4 11 12 4-12 4-4 11-4-11-12-4 12-4z"/><path d="M190 255l3 8 9 3-9 3-3 8-3-8-9-3 9-3z"/><path d="M752 258l3 8 9 3-9 3-3 8-3-8-9-3 9-3z"/></g>
+<g transform="translate(80 225) rotate(-9)" stroke="#b96f91" stroke-width="2"><rect width="80" height="53" rx="6" fill="#fff9fc"/><rect x="8" y="8" width="64" height="37" rx="3" fill="#f5cada"/><path d="M-7 54h94l-8 8H1Z" fill="#e3b2c8"/><path d="M40 20c-12-13-23 5 0 18 23-13 12-31 0-18Z" fill="#bb668c" stroke="none"/></g>
+<g fill="#d68eab"><path d="M858 232c-15-16-28 6 0 24 28-18 15-40 0-24Z"/><circle cx="208" cy="71" r="3"/><circle cx="713" cy="55" r="3"/></g>
+<text x="480" y="292" text-anchor="middle" font-family="Verdana,sans-serif" font-size="11" letter-spacing="2" fill="#955f77">WELCOME TO MY LITTLE CORNER OF GITHUB</text></svg>

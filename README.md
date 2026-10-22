@@ -4,7 +4,7 @@
 <p align="center"><img src="assets/typing.gif" width="700" alt="Data Engineer. MSIS at the University of Maryland. Exploring AI agents and data products." /></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-f0c6df?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=794b78" alt="Google Cloud Professional Data Engineer" />
+  <a href="https://www.credly.com/badges/85e69965-c925-4942-819d-279242b51c56/public_url"><img src="https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-f0c6df?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=794b78" alt="Google Cloud Professional Data Engineer" /></a>
   <img src="https://img.shields.io/badge/UMD-MS_Information_Systems-dcccf3?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=794b78" alt="UMD MS Information Systems" />
 </p>
 <p align="center">
@@ -104,8 +104,8 @@ Retrieval-Augmented Generation (RAG) · Agentic AI · AI workflow automation · 
 
 ### 🏅 Achievements unlocked
 
-- ☁️ **Google Cloud Professional Data Engineer**
-- 🌸 **Google Cloud Associate Data Practitioner**
+- ☁️ **[Google Cloud Professional Data Engineer](https://www.credly.com/badges/85e69965-c925-4942-819d-279242b51c56/public_url)**
+- 🌸 **[Google Cloud Associate Data Practitioner](https://www.credly.com/badges/22871f7f-1b9f-48a4-817a-7bb2bc1f9780/public_url)**
 
 ### 🌙 My coding journey
 

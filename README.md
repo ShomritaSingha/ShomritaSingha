@@ -1,5 +1,10 @@
 <h1 align="center">Shomrita Singha 🎀</h1>
 <p align="center"><b>Call me Sammy · building useful things with data and a little sparkle</b></p>
+
+<p align="center">🪦 <b>Back from the GitHub graveyard.</b><br/>
+Spent a little too long building projects locally and contemplating when to upload them.<br/>
+My laptop finally said “disk full,” so apparently my comeback is now a technical requirement. 🎀</p>
+
 <p align="center">🎓 MSIS @ <b>UMD</b> 🐢 &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg" width="24" alt="Maryland flag" /></p>
 <p align="center"><img src="assets/typing.gif" width="700" alt="Data Engineer. MSIS at the University of Maryland. Exploring AI agents and data products." /></p>
 

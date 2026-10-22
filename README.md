@@ -53,6 +53,7 @@ I enjoy connecting the technical work to the people who use it: turning messy da
 
 | Quest | What you'll find | Explore |
 | :--- | :--- | :--- |
+| 🌍 **Beyond GDP: Wealth, Longevity & Carbon** | Visual analysis of 182 economies; life-expectancy prediction, model comparison, and explainability | [Repository →](https://github.com/ShomritaSingha/wealth-life-expectancy-and-carbon-emission-prediction-model) |
 | 🌦️ **Weather ETL** | My weather data ETL project | [Repository →](https://github.com/ShomritaSingha/weather-etl) |
 | 🛍️ **Analytics Portfolio** | SQL cleaning, ecommerce analysis, population EDA, and Tableau dashboards | [Repository →](https://github.com/ShomritaSingha/Data-Analyst-Portfolio-Projects) |
 

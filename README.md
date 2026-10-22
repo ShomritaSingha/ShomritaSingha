@@ -27,7 +27,7 @@ My laptop finally said “disk full,” so apparently my comeback is now a techn
 
 ### 🌸 Meet the main character
 
-<img align="right" src="assets/sammy-walk-hi.gif" width="300" alt="Anime Sammy, based on my photo, walks in from the side, waves, and says Hi!" />
+<img align="right" src="assets/sammy-red-transparent.gif" width="300" alt="Anime Sammy in red and black walks in, floats gently, and says Hi! Transparent animation." />
 
 I'm a **data engineer** studying **Information Systems at UMD 🐢 (University of Maryland, Robert H. Smith School of Business)**, with a focus on AI and data analytics. My experience spans **insurance, telecom, and retail**, building pipelines, improving data quality, and making daily operations easier through automation.
 

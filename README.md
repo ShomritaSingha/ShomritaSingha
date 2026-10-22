@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/anime-girl.gif" width="900" alt="Sammy's pastel anime world: blinking chibi coder, cat-ear headphones, drifting cherry blossoms, twinkling stars, and a sleepy cat." />
-</p>
-
 <h1 align="center">Shomrita Singha 🎀</h1>
 <p align="center"><b>Call me Sammy · building useful things with data and a little sparkle</b></p>
 <p align="center"><img src="assets/typing.gif" width="700" alt="Data Engineer. MSIS at the University of Maryland. Exploring AI agents and data products." /></p>
@@ -59,7 +55,7 @@ I enjoy connecting the technical work to the people who use it: turning messy da
 <summary><b>☁️ Cloud &amp; data engineering</b> · open inventory</summary>
 <br/>
 
-Google Cloud · BigQuery · Cloud Composer / Apache Airflow · Workflows · Cloud Run · Dataflow · Dataproc · Cloud Storage · dbt
+Google Cloud (GCP) · Databricks · BigQuery · Cloud Composer / Apache Airflow · Workflows · Cloud Run · Dataflow · Dataproc · Cloud Storage · dbt
 
 </details>
 
@@ -84,6 +80,14 @@ Tableau · Looker Studio · Pandas · Matplotlib · Exploratory data analysis ·
 <br/>
 
 ETL / ELT · Data warehousing · Dimensional modeling · Change data capture · Pipeline monitoring · Incident reporting · CI/CD · Documentation · Stakeholder communication
+
+</details>
+
+<details>
+<summary><b>🤖 AI &amp; AI coding tools</b> · open inventory</summary>
+<br/>
+
+Retrieval-Augmented Generation (RAG) · Agentic AI · AI workflow automation · Codex (AI-assisted coding)
 
 </details>
 

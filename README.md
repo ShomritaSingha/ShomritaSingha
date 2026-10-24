@@ -1,4 +1,4 @@
-<h1 align="center">Shomrita Singha 🎀</h1>
+<h1 align="center">Shomrita Singha 🎀(Sammy)</h1>
 <p align="center"><b>Call me Sammy · building useful things with data and a little sparkle</b></p>
 
 <p align="center">🪦 <b>Back from the GitHub graveyard.</b><br/>

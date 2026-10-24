@@ -29,11 +29,15 @@ My laptop finally said “disk full,” so apparently my comeback is now a techn
 
 <img align="right" src="assets/sammy-red-transparent.gif" width="300" alt="Anime Sammy in red and black walks in, floats gently, and says Hi! Transparent animation." />
 
-I'm a **data engineer** studying **Information Systems at UMD 🐢 (University of Maryland, Robert H. Smith School of Business)**, with a focus on AI and data analytics. My experience spans **insurance, telecom, and retail**, building pipelines, improving data quality, and making daily operations easier through automation.
+I started in **Civil Engineering**—turns out bridges and skyscrapers look cool, but building them wasn’t my thing. A **traffic engineering data project** introduced me to a different kind of problem-solving: finding patterns in data and using them to explain what was happening. That was my plot twist. I switched paths into software development and eventually found my footing in **Data Engineering**.
 
-I enjoy connecting the technical work to the people who use it: turning messy data into clear insights, repetitive tasks into workflows, and ideas into useful products.
+Since then, I’ve built **ETL/ELT pipelines, cloud data workflows, and analytics transformations** across **insurance, telecom, and retail**, working with **Python, SQL, GCP, BigQuery, Airflow, and dbt**. Somewhere along the way, I traded physical infrastructure for data infrastructure—and discovered that debugging pipelines comes with its own structural challenges.
+
+My next level is **AI Engineering**. I’m pursuing an **MS in Information Systems at UMD 🐢 (Robert H. Smith School of Business)** while building projects with **LLMs, RAG, tool calling, MCP, and agentic workflows**. I’m interested in what happens when reliable data systems meet AI that can use tools, work with context, and help people get things done.
 
 <br clear="right" />
+
+<p align="center"><img src="assets/journey-route.svg" width="960" alt="Sammy’s animated career route: Civil Engineering → Traffic data project → Data Engineering → AI Engineering in progress. From bridges to pipelines to agents." /></p>
 
 ### 🪄 My current arc
 
